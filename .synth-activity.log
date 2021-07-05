@@ -4,3 +4,4 @@
 2021-06-22 docs: update README notes
 2021-06-30 test: add coverage for helper
 2021-07-04 fix: guard null reference
+2021-07-04 fix: handle empty input
