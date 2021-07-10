@@ -7,3 +7,4 @@
 2021-07-04 fix: handle empty input
 2021-07-07 docs: note deployment caveat
 2021-07-08 refactor: extract shared utility
+2021-07-10 chore: tidy project layout
