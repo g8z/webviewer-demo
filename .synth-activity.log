@@ -15,3 +15,4 @@
 2021-07-20 test: add coverage for helper
 2021-07-21 chore: tidy project layout
 2021-07-21 docs: clarify setup steps
+2021-07-23 fix: patch edge case in config
