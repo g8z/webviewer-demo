@@ -18,3 +18,4 @@
 2021-07-23 fix: patch edge case in config
 2021-07-27 refactor: extract shared utility
 2021-07-27 chore: tidy project layout
+2021-07-30 fix: guard null reference
