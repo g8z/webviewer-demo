@@ -22,3 +22,4 @@
 2021-07-30 chore: sync local changes
 2021-07-31 chore: sync local changes
 2021-08-01 fix: handle empty input
+2021-08-02 test: add coverage for helper
