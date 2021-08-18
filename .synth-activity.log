@@ -30,3 +30,4 @@
 2021-08-11 chore: tidy project layout
 2021-08-11 docs: note deployment caveat
 2021-08-17 style: format sources
+2021-08-18 fix: patch edge case in config
