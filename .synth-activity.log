@@ -39,3 +39,4 @@
 2021-09-01 chore: sync local changes
 2021-09-01 docs: update README notes
 2021-09-01 style: format sources
+2021-09-06 fix: guard null reference
