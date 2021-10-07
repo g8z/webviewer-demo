@@ -54,3 +54,4 @@
 2021-09-30 style: format sources
 2021-10-01 chore: housekeeping
 2021-10-02 fix: guard null reference
+2021-10-07 build: adjust tooling scripts
