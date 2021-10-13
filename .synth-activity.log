@@ -56,3 +56,4 @@
 2021-10-02 fix: guard null reference
 2021-10-07 build: adjust tooling scripts
 2021-10-11 style: format sources
+2021-10-13 refactor: simplify module wiring
