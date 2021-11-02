@@ -63,3 +63,4 @@
 2021-10-24 docs: note deployment caveat
 2021-10-25 docs: clarify setup steps
 2021-10-27 test: add coverage for helper
+2021-11-02 fix: handle empty input
