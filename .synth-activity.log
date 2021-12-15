@@ -79,3 +79,4 @@
 2021-12-09 refactor: simplify module wiring
 2021-12-12 docs: note deployment caveat
 2021-12-14 refactor: extract shared utility
+2021-12-15 test: add coverage for helper
