@@ -83,3 +83,4 @@
 2021-12-15 chore: tidy project layout
 2021-12-19 docs: clarify setup steps
 2021-12-20 chore: housekeeping
+2021-12-22 fix: guard null reference
