@@ -85,3 +85,4 @@
 2021-12-20 chore: housekeeping
 2021-12-22 fix: guard null reference
 2021-12-23 docs: update README notes
+2021-12-25 fix: handle empty input
