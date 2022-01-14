@@ -91,3 +91,4 @@
 2021-12-26 build: adjust tooling scripts
 2021-12-26 docs: clarify setup steps
 2022-01-07 docs: update README notes
+2022-01-14 refactor: simplify module wiring
