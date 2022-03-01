@@ -111,3 +111,4 @@
 2022-02-19 fix: patch edge case in config
 2022-02-24 docs: clarify setup steps
 2022-02-24 build: adjust tooling scripts
+2022-02-28 chore: bump internal marker
