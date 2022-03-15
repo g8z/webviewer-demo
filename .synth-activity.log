@@ -114,3 +114,4 @@
 2022-02-28 chore: bump internal marker
 2022-03-08 fix: handle empty input
 2022-03-12 chore: sync local changes
+2022-03-14 fix: patch edge case in config
