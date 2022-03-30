@@ -119,3 +119,4 @@
 2022-03-18 fix: handle empty input
 2022-03-18 docs: note deployment caveat
 2022-03-26 docs: clarify setup steps
+2022-03-30 style: format sources
