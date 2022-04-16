@@ -127,3 +127,4 @@
 2022-04-11 docs: clarify setup steps
 2022-04-11 docs: note deployment caveat
 2022-04-14 fix: handle empty input
+2022-04-16 test: add coverage for helper
