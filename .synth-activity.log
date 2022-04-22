@@ -130,3 +130,4 @@
 2022-04-16 test: add coverage for helper
 2022-04-18 build: adjust tooling scripts
 2022-04-19 docs: note deployment caveat
+2022-04-22 fix: patch edge case in config
