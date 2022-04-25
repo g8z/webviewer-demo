@@ -133,3 +133,4 @@
 2022-04-22 fix: patch edge case in config
 2022-04-23 chore: sync local changes
 2022-04-24 chore: sync local changes
+2022-04-25 refactor: simplify module wiring
