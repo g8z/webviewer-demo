@@ -138,3 +138,4 @@
 2022-04-28 chore: sync local changes
 2022-04-28 chore: housekeeping
 2022-04-30 docs: update README notes
+2022-05-03 fix: guard null reference
