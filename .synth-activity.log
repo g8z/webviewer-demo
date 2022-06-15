@@ -150,3 +150,4 @@
 2022-06-06 chore: bump internal marker
 2022-06-06 fix: patch edge case in config
 2022-06-07 test: add coverage for helper
+2022-06-15 docs: note deployment caveat
