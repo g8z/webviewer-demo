@@ -155,3 +155,4 @@
 2022-06-20 build: adjust tooling scripts
 2022-06-21 refactor: extract shared utility
 2022-06-21 docs: clarify setup steps
+2022-06-21 fix: patch edge case in config
