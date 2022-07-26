@@ -170,3 +170,4 @@
 2022-07-18 chore: housekeeping
 2022-07-19 chore: sync local changes
 2022-07-25 style: format sources
+2022-07-26 refactor: simplify module wiring
