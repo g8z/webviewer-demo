@@ -176,3 +176,4 @@
 2022-07-31 docs: update README notes
 2022-08-01 style: format sources
 2022-08-09 chore: sync local changes
+2022-08-17 fix: handle empty input
