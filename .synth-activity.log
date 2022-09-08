@@ -185,3 +185,4 @@
 2022-08-28 style: format sources
 2022-09-03 refactor: simplify module wiring
 2022-09-04 chore: sync local changes
+2022-09-07 fix: patch edge case in config
