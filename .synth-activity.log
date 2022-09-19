@@ -190,3 +190,4 @@
 2022-09-12 chore: tidy project layout
 2022-09-18 fix: guard null reference
 2022-09-18 docs: clarify setup steps
+2022-09-19 fix: patch edge case in config
