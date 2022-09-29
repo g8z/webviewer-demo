@@ -198,3 +198,4 @@
 2022-09-26 chore: tidy project layout
 2022-09-29 build: adjust tooling scripts
 2022-09-29 docs: update README notes
+2022-09-29 refactor: simplify module wiring
