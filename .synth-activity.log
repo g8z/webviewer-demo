@@ -196,3 +196,4 @@
 2022-09-24 fix: guard null reference
 2022-09-25 docs: note deployment caveat
 2022-09-26 chore: tidy project layout
+2022-09-29 build: adjust tooling scripts
