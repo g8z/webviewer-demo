@@ -199,3 +199,4 @@
 2022-09-29 build: adjust tooling scripts
 2022-09-29 docs: update README notes
 2022-09-29 refactor: simplify module wiring
+2022-09-30 fix: guard null reference
