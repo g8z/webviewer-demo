@@ -218,3 +218,4 @@
 2022-10-31 refactor: simplify module wiring
 2022-11-01 chore: sync local changes
 2022-11-01 fix: handle empty input
+2022-11-05 fix: guard null reference
