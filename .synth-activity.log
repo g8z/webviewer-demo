@@ -221,3 +221,4 @@
 2022-11-05 fix: guard null reference
 2022-11-08 docs: clarify setup steps
 2022-11-12 docs: clarify setup steps
+2022-11-21 test: add coverage for helper
