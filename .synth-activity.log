@@ -227,3 +227,4 @@
 2022-11-27 chore: sync local changes
 2022-11-27 style: format sources
 2022-12-01 test: add coverage for helper
+2022-12-02 refactor: simplify module wiring
