@@ -226,3 +226,4 @@
 2022-11-23 docs: clarify setup steps
 2022-11-27 chore: sync local changes
 2022-11-27 style: format sources
+2022-12-01 test: add coverage for helper
