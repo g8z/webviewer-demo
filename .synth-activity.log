@@ -228,3 +228,4 @@
 2022-11-27 style: format sources
 2022-12-01 test: add coverage for helper
 2022-12-02 refactor: simplify module wiring
+2022-12-06 refactor: extract shared utility
