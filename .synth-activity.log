@@ -245,3 +245,4 @@
 2023-01-16 test: add coverage for helper
 2023-01-17 chore: sync local changes
 2023-01-17 fix: handle empty input
+2023-01-18 style: format sources
