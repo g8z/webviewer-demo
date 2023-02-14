@@ -257,3 +257,4 @@
 2023-02-05 fix: handle empty input
 2023-02-07 docs: update README notes
 2023-02-08 refactor: simplify module wiring
+2023-02-13 build: adjust tooling scripts
