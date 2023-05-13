@@ -285,3 +285,4 @@
 2023-04-28 refactor: extract shared utility
 2023-05-01 test: add coverage for helper
 2023-05-04 chore: bump internal marker
+2023-05-13 fix: guard null reference
