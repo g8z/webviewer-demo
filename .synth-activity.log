@@ -288,3 +288,4 @@
 2023-05-13 fix: guard null reference
 2023-05-15 fix: patch edge case in config
 2023-05-17 chore: sync local changes
+2023-05-19 docs: clarify setup steps
