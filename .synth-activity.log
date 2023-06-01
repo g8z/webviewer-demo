@@ -291,3 +291,4 @@
 2023-05-19 docs: clarify setup steps
 2023-05-28 style: format sources
 2023-05-29 fix: handle empty input
+2023-06-01 fix: patch edge case in config
