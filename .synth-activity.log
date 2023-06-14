@@ -297,3 +297,4 @@
 2023-06-05 fix: handle empty input
 2023-06-06 fix: patch edge case in config
 2023-06-10 chore: tidy project layout
+2023-06-14 chore: bump internal marker
