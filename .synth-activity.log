@@ -302,3 +302,4 @@
 2023-06-15 test: add coverage for helper
 2023-06-21 test: add coverage for helper
 2023-06-23 style: format sources
+2023-06-24 fix: handle empty input
