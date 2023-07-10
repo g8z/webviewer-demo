@@ -310,3 +310,4 @@
 2023-07-05 fix: guard null reference
 2023-07-08 refactor: extract shared utility
 2023-07-10 test: add coverage for helper
+2023-07-10 build: adjust tooling scripts
