@@ -314,3 +314,4 @@
 2023-07-11 build: adjust tooling scripts
 2023-07-12 test: add coverage for helper
 2023-07-12 chore: bump internal marker
+2023-07-12 style: format sources
