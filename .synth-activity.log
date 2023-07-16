@@ -316,3 +316,4 @@
 2023-07-12 chore: bump internal marker
 2023-07-12 style: format sources
 2023-07-14 docs: clarify setup steps
+2023-07-16 test: add coverage for helper
