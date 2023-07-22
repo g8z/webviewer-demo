@@ -319,3 +319,4 @@
 2023-07-16 test: add coverage for helper
 2023-07-16 fix: patch edge case in config
 2023-07-20 chore: housekeeping
+2023-07-22 style: format sources
