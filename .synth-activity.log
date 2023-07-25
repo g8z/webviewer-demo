@@ -321,3 +321,4 @@
 2023-07-20 chore: housekeeping
 2023-07-22 style: format sources
 2023-07-24 style: format sources
+2023-07-25 refactor: simplify module wiring
