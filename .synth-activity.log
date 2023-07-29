@@ -323,3 +323,4 @@
 2023-07-24 style: format sources
 2023-07-25 refactor: simplify module wiring
 2023-07-27 docs: clarify setup steps
+2023-07-29 docs: note deployment caveat
