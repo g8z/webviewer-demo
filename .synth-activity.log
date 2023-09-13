@@ -347,3 +347,4 @@
 2023-09-05 docs: note deployment caveat
 2023-09-09 fix: handle empty input
 2023-09-10 docs: clarify setup steps
+2023-09-13 fix: patch edge case in config
