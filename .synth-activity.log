@@ -350,3 +350,4 @@
 2023-09-13 fix: patch edge case in config
 2023-09-15 chore: sync local changes
 2023-09-16 docs: update README notes
+2023-09-16 fix: guard null reference
