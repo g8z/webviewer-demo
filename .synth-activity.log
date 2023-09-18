@@ -352,3 +352,4 @@
 2023-09-16 docs: update README notes
 2023-09-16 fix: guard null reference
 2023-09-18 test: add coverage for helper
+2023-09-18 fix: guard null reference
