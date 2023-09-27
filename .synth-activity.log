@@ -356,3 +356,4 @@
 2023-09-21 fix: handle empty input
 2023-09-24 style: format sources
 2023-09-25 build: adjust tooling scripts
+2023-09-26 test: add coverage for helper
