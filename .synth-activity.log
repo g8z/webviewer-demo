@@ -358,3 +358,4 @@
 2023-09-25 build: adjust tooling scripts
 2023-09-26 test: add coverage for helper
 2023-09-28 refactor: simplify module wiring
+2023-09-29 refactor: extract shared utility
