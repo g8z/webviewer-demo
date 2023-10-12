@@ -366,3 +366,4 @@
 2023-10-08 docs: clarify setup steps
 2023-10-10 fix: patch edge case in config
 2023-10-11 chore: tidy project layout
+2023-10-12 style: format sources
