@@ -370,3 +370,4 @@
 2023-10-13 chore: bump internal marker
 2023-10-14 fix: patch edge case in config
 2023-10-16 fix: patch edge case in config
+2023-10-22 build: adjust tooling scripts
