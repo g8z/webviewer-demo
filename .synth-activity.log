@@ -386,3 +386,4 @@
 2023-11-18 chore: tidy project layout
 2023-11-21 build: adjust tooling scripts
 2023-11-24 test: add coverage for helper
+2023-11-24 chore: bump internal marker
