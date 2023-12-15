@@ -392,3 +392,4 @@
 2023-12-05 fix: handle empty input
 2023-12-12 fix: guard null reference
 2023-12-13 docs: note deployment caveat
+2023-12-14 fix: guard null reference
