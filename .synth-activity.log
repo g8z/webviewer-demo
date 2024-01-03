@@ -395,3 +395,4 @@
 2023-12-14 fix: guard null reference
 2023-12-15 test: add coverage for helper
 2023-12-31 test: add coverage for helper
+2024-01-02 fix: patch edge case in config
