@@ -398,3 +398,4 @@
 2024-01-02 fix: patch edge case in config
 2024-01-04 fix: handle empty input
 2024-01-06 chore: bump internal marker
+2024-01-06 test: add coverage for helper
