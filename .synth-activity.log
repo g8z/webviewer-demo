@@ -431,3 +431,4 @@
 2024-02-15 build: adjust tooling scripts
 2024-02-26 fix: guard null reference
 2024-02-27 chore: sync local changes
+2024-02-27 fix: handle empty input
