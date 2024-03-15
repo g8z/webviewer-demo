@@ -442,3 +442,4 @@
 2024-03-11 fix: patch edge case in config
 2024-03-11 build: adjust tooling scripts
 2024-03-14 chore: bump internal marker
+2024-03-14 refactor: extract shared utility
