@@ -443,3 +443,4 @@
 2024-03-11 build: adjust tooling scripts
 2024-03-14 chore: bump internal marker
 2024-03-14 refactor: extract shared utility
+2024-03-18 fix: handle empty input
