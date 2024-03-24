@@ -445,3 +445,4 @@
 2024-03-14 refactor: extract shared utility
 2024-03-18 fix: handle empty input
 2024-03-23 chore: tidy project layout
+2024-03-23 fix: handle empty input
