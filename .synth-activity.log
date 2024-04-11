@@ -456,3 +456,4 @@
 2024-04-04 docs: update README notes
 2024-04-07 chore: sync local changes
 2024-04-08 fix: handle empty input
+2024-04-11 test: add coverage for helper
