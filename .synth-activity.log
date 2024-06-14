@@ -476,3 +476,4 @@
 2024-06-05 chore: tidy project layout
 2024-06-07 docs: clarify setup steps
 2024-06-09 fix: guard null reference
+2024-06-13 style: format sources
