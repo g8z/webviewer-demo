@@ -479,3 +479,4 @@
 2024-06-13 style: format sources
 2024-06-13 chore: sync local changes
 2024-06-14 docs: update README notes
+2024-06-17 refactor: simplify module wiring
