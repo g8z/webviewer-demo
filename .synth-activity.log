@@ -482,3 +482,4 @@
 2024-06-17 refactor: simplify module wiring
 2024-06-18 docs: clarify setup steps
 2024-06-19 fix: patch edge case in config
+2024-06-20 docs: note deployment caveat
