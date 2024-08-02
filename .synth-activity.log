@@ -499,3 +499,4 @@
 2024-07-28 fix: handle empty input
 2024-07-29 chore: bump internal marker
 2024-07-30 fix: patch edge case in config
+2024-08-02 style: format sources
