@@ -505,3 +505,4 @@
 2024-08-09 docs: update README notes
 2024-08-11 style: format sources
 2024-08-12 refactor: simplify module wiring
+2024-08-13 fix: patch edge case in config
