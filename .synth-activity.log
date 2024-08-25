@@ -508,3 +508,4 @@
 2024-08-13 fix: patch edge case in config
 2024-08-13 test: add coverage for helper
 2024-08-23 chore: housekeeping
+2024-08-25 fix: patch edge case in config
