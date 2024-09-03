@@ -515,3 +515,4 @@
 2024-09-01 docs: update README notes
 2024-09-01 fix: handle empty input
 2024-09-02 fix: guard null reference
+2024-09-03 chore: bump internal marker
