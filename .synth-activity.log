@@ -520,3 +520,4 @@
 2024-09-06 fix: patch edge case in config
 2024-09-08 fix: guard null reference
 2024-09-11 refactor: simplify module wiring
+2024-09-12 docs: update README notes
