@@ -522,3 +522,4 @@
 2024-09-11 refactor: simplify module wiring
 2024-09-12 docs: update README notes
 2024-09-17 chore: sync local changes
+2024-09-20 fix: patch edge case in config
