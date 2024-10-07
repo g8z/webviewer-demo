@@ -532,3 +532,4 @@
 2024-09-26 docs: clarify setup steps
 2024-09-29 chore: bump internal marker
 2024-10-06 chore: tidy project layout
+2024-10-07 fix: handle empty input
