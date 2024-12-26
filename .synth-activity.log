@@ -554,3 +554,4 @@
 2024-12-21 fix: handle empty input
 2024-12-23 fix: patch edge case in config
 2024-12-25 style: format sources
+2024-12-25 chore: housekeeping
