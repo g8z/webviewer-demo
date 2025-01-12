@@ -562,3 +562,4 @@
 2025-01-10 style: format sources
 2025-01-11 chore: bump internal marker
 2025-01-11 refactor: simplify module wiring
+2025-01-11 fix: guard null reference
