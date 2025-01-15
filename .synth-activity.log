@@ -564,3 +564,4 @@
 2025-01-11 refactor: simplify module wiring
 2025-01-11 fix: guard null reference
 2025-01-13 docs: update README notes
+2025-01-14 docs: clarify setup steps
