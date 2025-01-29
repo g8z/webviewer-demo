@@ -569,3 +569,4 @@
 2025-01-18 chore: tidy project layout
 2025-01-20 refactor: simplify module wiring
 2025-01-27 docs: clarify setup steps
+2025-01-29 fix: handle empty input
