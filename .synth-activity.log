@@ -571,3 +571,4 @@
 2025-01-27 docs: clarify setup steps
 2025-01-29 fix: handle empty input
 2025-01-29 docs: clarify setup steps
+2025-01-31 refactor: extract shared utility
