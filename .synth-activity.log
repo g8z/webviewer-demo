@@ -583,3 +583,4 @@
 2025-03-01 test: add coverage for helper
 2025-03-04 refactor: extract shared utility
 2025-03-07 refactor: simplify module wiring
+2025-03-10 build: adjust tooling scripts
