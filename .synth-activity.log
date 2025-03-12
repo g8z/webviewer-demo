@@ -584,3 +584,4 @@
 2025-03-04 refactor: extract shared utility
 2025-03-07 refactor: simplify module wiring
 2025-03-10 build: adjust tooling scripts
+2025-03-11 docs: clarify setup steps
