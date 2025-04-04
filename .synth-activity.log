@@ -592,3 +592,4 @@
 2025-03-30 chore: bump internal marker
 2025-03-30 docs: note deployment caveat
 2025-04-01 docs: clarify setup steps
+2025-04-04 refactor: extract shared utility
