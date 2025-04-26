@@ -602,3 +602,4 @@
 2025-04-17 docs: clarify setup steps
 2025-04-19 fix: guard null reference
 2025-04-24 style: format sources
+2025-04-26 test: add coverage for helper
