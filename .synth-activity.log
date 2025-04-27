@@ -603,3 +603,4 @@
 2025-04-19 fix: guard null reference
 2025-04-24 style: format sources
 2025-04-26 test: add coverage for helper
+2025-04-26 chore: bump internal marker
