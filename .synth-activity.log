@@ -605,3 +605,4 @@
 2025-04-26 test: add coverage for helper
 2025-04-26 chore: bump internal marker
 2025-05-02 chore: housekeeping
+2025-05-03 fix: handle empty input
