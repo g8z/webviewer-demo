@@ -610,3 +610,4 @@
 2025-05-08 chore: tidy project layout
 2025-05-08 test: add coverage for helper
 2025-05-08 chore: tidy project layout
+2025-05-10 refactor: simplify module wiring
