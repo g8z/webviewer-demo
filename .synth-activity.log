@@ -615,3 +615,4 @@
 2025-05-11 fix: handle empty input
 2025-05-11 test: add coverage for helper
 2025-05-14 docs: note deployment caveat
+2025-05-14 fix: patch edge case in config
