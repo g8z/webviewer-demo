@@ -614,3 +614,4 @@
 2025-05-11 docs: update README notes
 2025-05-11 fix: handle empty input
 2025-05-11 test: add coverage for helper
+2025-05-14 docs: note deployment caveat
