@@ -618,3 +618,4 @@
 2025-05-14 fix: patch edge case in config
 2025-05-15 docs: update README notes
 2025-05-17 docs: note deployment caveat
+2025-05-21 chore: bump internal marker
