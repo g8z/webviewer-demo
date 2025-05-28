@@ -621,3 +621,4 @@
 2025-05-21 chore: bump internal marker
 2025-05-24 refactor: simplify module wiring
 2025-05-24 test: add coverage for helper
+2025-05-28 build: adjust tooling scripts
