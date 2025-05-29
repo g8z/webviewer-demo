@@ -622,3 +622,4 @@
 2025-05-24 refactor: simplify module wiring
 2025-05-24 test: add coverage for helper
 2025-05-28 build: adjust tooling scripts
+2025-05-28 docs: update README notes
