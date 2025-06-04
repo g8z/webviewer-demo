@@ -623,3 +623,4 @@
 2025-05-24 test: add coverage for helper
 2025-05-28 build: adjust tooling scripts
 2025-05-28 docs: update README notes
+2025-06-04 chore: bump internal marker
