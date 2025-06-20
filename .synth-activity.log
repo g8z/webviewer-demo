@@ -626,3 +626,4 @@
 2025-06-04 chore: bump internal marker
 2025-06-07 fix: patch edge case in config
 2025-06-14 chore: tidy project layout
+2025-06-20 build: adjust tooling scripts
