@@ -628,3 +628,4 @@
 2025-06-14 chore: tidy project layout
 2025-06-20 build: adjust tooling scripts
 2025-06-23 style: format sources
+2025-06-25 test: add coverage for helper
