@@ -630,3 +630,4 @@
 2025-06-23 style: format sources
 2025-06-25 test: add coverage for helper
 2025-06-27 fix: patch edge case in config
+2025-07-03 chore: sync local changes
