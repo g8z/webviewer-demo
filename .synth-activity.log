@@ -634,3 +634,4 @@
 2025-07-07 docs: note deployment caveat
 2025-07-08 fix: handle empty input
 2025-07-12 fix: patch edge case in config
+2025-07-12 refactor: extract shared utility
