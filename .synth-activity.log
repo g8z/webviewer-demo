@@ -635,3 +635,4 @@
 2025-07-08 fix: handle empty input
 2025-07-12 fix: patch edge case in config
 2025-07-12 refactor: extract shared utility
+2025-07-13 fix: handle empty input
