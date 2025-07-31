@@ -640,3 +640,4 @@
 2025-07-20 docs: clarify setup steps
 2025-07-23 fix: guard null reference
 2025-07-29 chore: sync local changes
+2025-07-30 fix: guard null reference
