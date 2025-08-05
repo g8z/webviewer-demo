@@ -643,3 +643,4 @@
 2025-07-30 fix: guard null reference
 2025-08-01 fix: guard null reference
 2025-08-05 chore: housekeeping
+2025-08-05 docs: note deployment caveat
