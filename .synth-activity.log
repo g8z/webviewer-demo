@@ -655,3 +655,4 @@
 2025-09-04 style: format sources
 2025-09-06 docs: note deployment caveat
 2025-09-07 style: format sources
+2025-09-08 fix: guard null reference
