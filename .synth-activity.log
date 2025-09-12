@@ -657,3 +657,4 @@
 2025-09-07 style: format sources
 2025-09-08 fix: guard null reference
 2025-09-11 fix: handle empty input
+2025-09-12 build: adjust tooling scripts
