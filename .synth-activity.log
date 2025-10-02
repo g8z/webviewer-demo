@@ -663,3 +663,4 @@
 2025-09-20 chore: housekeeping
 2025-09-21 refactor: extract shared utility
 2025-09-23 docs: note deployment caveat
+2025-10-02 refactor: simplify module wiring
