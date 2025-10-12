@@ -665,3 +665,4 @@
 2025-09-23 docs: note deployment caveat
 2025-10-02 refactor: simplify module wiring
 2025-10-10 chore: bump internal marker
+2025-10-12 test: add coverage for helper
