@@ -669,3 +669,4 @@
 2025-10-14 docs: clarify setup steps
 2025-10-14 chore: bump internal marker
 2025-10-18 fix: handle empty input
+2025-10-20 refactor: simplify module wiring
