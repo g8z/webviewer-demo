@@ -672,3 +672,4 @@
 2025-10-20 refactor: simplify module wiring
 2025-10-23 fix: handle empty input
 2025-11-07 fix: patch edge case in config
+2025-11-07 fix: handle empty input
