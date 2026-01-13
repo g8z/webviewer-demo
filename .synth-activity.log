@@ -694,3 +694,4 @@
 2025-12-26 fix: handle empty input
 2025-12-30 chore: housekeeping
 2026-01-02 chore: bump internal marker
+2026-01-13 build: adjust tooling scripts
