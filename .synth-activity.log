@@ -699,3 +699,4 @@
 2026-01-20 refactor: simplify module wiring
 2026-01-21 fix: guard null reference
 2026-01-29 docs: update README notes
+2026-01-29 fix: patch edge case in config
