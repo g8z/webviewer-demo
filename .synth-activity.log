@@ -707,3 +707,4 @@
 2026-02-04 fix: guard null reference
 2026-02-05 fix: patch edge case in config
 2026-02-05 docs: update README notes
+2026-02-06 chore: bump internal marker
