@@ -712,3 +712,4 @@
 2026-02-08 docs: note deployment caveat
 2026-02-14 docs: clarify setup steps
 2026-02-15 chore: tidy project layout
+2026-02-21 refactor: extract shared utility
