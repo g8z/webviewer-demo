@@ -717,3 +717,4 @@
 2026-02-22 docs: clarify setup steps
 2026-02-24 chore: tidy project layout
 2026-02-27 fix: patch edge case in config
+2026-03-01 fix: handle empty input
