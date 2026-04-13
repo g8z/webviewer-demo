@@ -730,3 +730,4 @@
 2026-04-02 docs: clarify setup steps
 2026-04-02 docs: clarify setup steps
 2026-04-08 docs: update README notes
+2026-04-13 fix: handle empty input
