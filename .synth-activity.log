@@ -733,3 +733,4 @@
 2026-04-13 fix: handle empty input
 2026-04-16 docs: note deployment caveat
 2026-04-21 fix: guard null reference
+2026-04-21 chore: housekeeping
