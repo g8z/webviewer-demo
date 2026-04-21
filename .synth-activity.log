@@ -734,3 +734,4 @@
 2026-04-16 docs: note deployment caveat
 2026-04-21 fix: guard null reference
 2026-04-21 chore: housekeeping
+2026-04-21 docs: clarify setup steps
