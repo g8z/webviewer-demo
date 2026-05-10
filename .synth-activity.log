@@ -742,3 +742,4 @@
 2026-05-03 chore: bump internal marker
 2026-05-04 refactor: extract shared utility
 2026-05-06 fix: patch edge case in config
+2026-05-10 docs: note deployment caveat
