@@ -747,3 +747,4 @@
 2026-05-12 fix: handle empty input
 2026-05-12 fix: handle empty input
 2026-05-13 chore: tidy project layout
+2026-05-13 test: add coverage for helper
