@@ -750,3 +750,4 @@
 2026-05-13 test: add coverage for helper
 2026-05-14 fix: guard null reference
 2026-05-16 docs: clarify setup steps
+2026-05-16 build: adjust tooling scripts
