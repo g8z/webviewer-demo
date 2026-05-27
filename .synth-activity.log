@@ -755,3 +755,4 @@
 2026-05-18 chore: housekeeping
 2026-05-21 docs: clarify setup steps
 2026-05-25 chore: housekeeping
+2026-05-27 fix: guard null reference
