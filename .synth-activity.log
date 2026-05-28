@@ -757,3 +757,4 @@
 2026-05-25 chore: housekeeping
 2026-05-27 fix: guard null reference
 2026-05-27 refactor: simplify module wiring
+2026-05-28 build: adjust tooling scripts
