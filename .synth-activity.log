@@ -760,3 +760,4 @@
 2026-05-28 build: adjust tooling scripts
 2026-06-01 build: adjust tooling scripts
 2026-06-03 docs: note deployment caveat
+2026-06-05 fix: patch edge case in config
