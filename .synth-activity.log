@@ -765,3 +765,4 @@
 2026-06-07 build: adjust tooling scripts
 2026-06-12 docs: clarify setup steps
 2026-06-14 docs: clarify setup steps
+2026-06-14 fix: handle empty input
