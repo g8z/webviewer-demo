@@ -769,3 +769,4 @@
 2026-06-15 chore: sync local changes
 2026-06-15 chore: housekeeping
 2026-06-16 refactor: simplify module wiring
+2026-06-18 fix: patch edge case in config
