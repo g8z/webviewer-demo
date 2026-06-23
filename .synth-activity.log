@@ -772,3 +772,4 @@
 2026-06-18 fix: patch edge case in config
 2026-06-19 docs: clarify setup steps
 2026-06-20 docs: note deployment caveat
+2026-06-23 chore: bump internal marker
